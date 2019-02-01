@@ -1,2 +1,7 @@
 # WAL
-WAL for LMDB.
+
+Write ahead logging library for lmdb.
+
+`xcode-select --install`
+`make`
+
